@@ -34,3 +34,12 @@ Submissions
 5.3M  
 Acceptance Rate  
 61.0%  
+
+My solution:  
+Runtime  
+473ms  
+Beats 66.47% of users with Python3  
+
+Memory  
+35.60MB  
+Beats 5.88% of users with Python3  
